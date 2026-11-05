@@ -2,7 +2,7 @@
 
 echo  "********************display root f.s space***********"
 
-dh  -l
+dh  -h /
 
 
 echo  "***********************************display today date date************************"
